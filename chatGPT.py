@@ -1,5 +1,5 @@
 # # https://medium.com/geekculture/using-chatgpt-in-python-eeaed9847e72
-
+https://github.com/mmabrouk/chatgpt-wrapper
 # pip install git+https://github.com/mmabrouk/chatgpt-wrapper
 # playwright install {browser}
 # chatgpt install
