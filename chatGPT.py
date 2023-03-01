@@ -1,5 +1,8 @@
 # # https://medium.com/geekculture/using-chatgpt-in-python-eeaed9847e72
-https://github.com/mmabrouk/chatgpt-wrapper
+# https://github.com/mmabrouk/chatgpt-wrapper 
+
+# https://github.com/promptslab/Promptify
+
 # pip install git+https://github.com/mmabrouk/chatgpt-wrapper
 # playwright install {browser}
 # chatgpt install
@@ -20,3 +23,5 @@ https://github.com/mmabrouk/chatgpt-wrapper
 1)give me only chemical reaction for the production of orthosilicic acid
 2)convert above reaction into grams of chemicals required
 3)convert above visualisation into csv file
+
+
